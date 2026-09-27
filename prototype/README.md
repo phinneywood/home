@@ -4,7 +4,7 @@
 
 This is a throwaway UI exploration, not a production implementation. All records are invented. No accounts, credentials, personal data, APIs, database, persistence, telemetry, or third-party assets are used.
 
-## Compare three structures
+## Selected direction\n\nAntonio selected **B — Domain dashboard** on September 27, 2026. The three variants remain for comparison, but further prototyping should deepen B rather than continue treating A/B/C as equally open.\n\n## Compare three structures
 
 - **A — Daily brief:** decisions and waiting items first, with household lookup below and upcoming context alongside.
 - **B — Domain dashboard:** navigate Housebook, Projects, Commitments, and Systems through a domain rail and overview tiles.
